@@ -205,7 +205,9 @@ body {
     #contact{
         padding-top: 10px;
     }
-
+     #container{
+        margin-top: 10%;
+    }
     .btn {
         font-size: 1.6em;
         margin-bottom: 30px;
